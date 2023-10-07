@@ -761,7 +761,6 @@ background-color: #4D5AE5;
 
 .modal-text-area::placeholder {
   color: rgba(46, 47, 66, 0.40);
-    font-family: Roboto;
     font-size: 12px;
     font-weight: 400;
     line-height: 1.17;
